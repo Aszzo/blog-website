@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+//   const num = {
+//       age:15
+//   }
+//   function num3(oo) {
+//       console.log(this,oo)
+//   }
+//   num3.apply(num,[1])
+class Tom{
+    constructor(){
+        this.width = 12;
+    }
+}
+class Jack extends Tom{
+//    constructor(){
+////        super()
+//    }
+    func(){
+        console.log(this.width)
+    }
+}
+new Jack().func();
+
+</script>
+</body>
+</html>
