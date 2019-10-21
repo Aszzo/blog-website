@@ -5,7 +5,7 @@
 # Site
 title: Alpine的博客
 subtitle: 大江东去，浪尽一生
-description: 前端小猴子一枚，React小迷弟
+description: 程序猿
 author: Alpine
 eamil: 13280907978@163.com
 keywords: "前端,js,React,node,程序员,程序猿,Developer,服务器端"
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: hexo-theme-yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
