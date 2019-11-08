@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alpine的博客
+title: Aszzo的博客
 subtitle: 大江东去，浪尽一生
 description: 程序猿
-author: Alpine
+author: Aszzo
 eamil: 13280907978@163.com
-keywords: "前端,js,React,node,程序员,程序猿,Developer,服务器端"
+keywords: "程序员,程序猿,Developer"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
